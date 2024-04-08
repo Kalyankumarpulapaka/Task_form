@@ -1,0 +1,15 @@
+.box1{
+    
+    height: 765px;
+    border: 2px solid black;
+}
+.box2{
+border: 2px solid black;
+}
+.pad{
+    padding-top: 4%;
+}
+.head1{
+    text-align: center;
+    background-color: azure;
+}
