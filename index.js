@@ -40,8 +40,8 @@ function myfun(event){
         var kalyan=document.createElement("td");
         kalyan.innerHTML=datanew[i];
         createrow.appendChild(kalyan);
-       
+           number=number+1;
+
     }
     table.appendChild(createrow);
-    number=number+1;
 }
